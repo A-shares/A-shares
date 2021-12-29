@@ -1,6 +1,6 @@
 # 《A-shares：中国A股》
 
-本项目创建于2021年9月1日，最近的一次更新时间为2021年12月26日。
+本项目创建于2021年9月1日，最近的一次更新时间为2021年12月29日。
 
 ## 0x01-A股资源参考
 
@@ -16,6 +16,7 @@
 - [ ] https://github.com/liuhuanyong/ChainKnowledgeGraph
 - [ ] https://github.com/xiaopihaiK/gate_auto
 - [ ] https://github.com/shidenggui/easytrader
+- [ ] https://github.com/forecho/Stock-Investment-Principle
 
 ## 0x02-A股基础知识
 
