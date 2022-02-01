@@ -4,16 +4,16 @@
 
 本项目创建于2021年9月1日，最近的一次更新时间为2022年2月1日。
 
-- [01-A股资源参考]()
-- [02-A股基础知识]()
-- [03-A股行业板块]()
-- [04-A股个股研究]()
-- [05-A股选股策略]()
-- [06-A股效应理论]()
-- [07-A股基金韭菜]()
-- [08-A股交易软件]()
-- [09-A股量化交易]()
-- [10-A股投资大师]()
+- [01-A股资源参考](https://github.com/A-shares/A-shares#01-a%E8%82%A1%E8%B5%84%E6%BA%90%E5%8F%82%E8%80%83)
+- [02-A股基础知识](https://github.com/A-shares/A-shares#02-a%E8%82%A1%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86)
+- [03-A股行业板块](https://github.com/A-shares/A-shares#03-a%E8%82%A1%E8%A1%8C%E4%B8%9A%E6%9D%BF%E5%9D%97)
+- [04-A股个股研究](https://github.com/A-shares/A-shares#04-a%E8%82%A1%E4%B8%AA%E8%82%A1%E7%A0%94%E7%A9%B6)
+- [05-A股选股策略](https://github.com/A-shares/A-shares#05-a%E8%82%A1%E9%80%89%E8%82%A1%E7%AD%96%E7%95%A5)
+- [06-A股效应理论](https://github.com/A-shares/A-shares#06-a%E8%82%A1%E6%95%88%E5%BA%94%E7%90%86%E8%AE%BA)
+- [07-A股基金韭菜](https://github.com/A-shares/A-shares#07-a%E8%82%A1%E5%9F%BA%E9%87%91%E9%9F%AD%E8%8F%9C)
+- [08-A股交易软件](https://github.com/A-shares/A-shares#08-a%E8%82%A1%E4%BA%A4%E6%98%93%E8%BD%AF%E4%BB%B6)
+- [09-A股量化交易](https://github.com/A-shares/A-shares#09-a%E8%82%A1%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93)
+- [10-A股投资大师](https://github.com/A-shares/A-shares#10-a%E8%82%A1%E6%8A%95%E8%B5%84%E5%A4%A7%E5%B8%88)
 
 ## 01-A股资源参考
 
@@ -103,7 +103,36 @@
 
 ## 09-A股量化交易
 
-- https://github.com/Rockyzsu/stock
+一、Golang
+- [ ] https://github.com/achannarasappa/ticker
+- [ ] https://github.com/mop-tracker/mop
+- [ ] https://github.com/doneland/yquotes
+- [ ] https://github.com/nzai/stockrecorder
+- [ ] https://github.com/thetruetrade/gotrade
+- [ ] https://github.com/a7a2/bzza.com
+- [ ] https://github.com/nmapx/revolut-stocks-list
+- [ ] https://github.com/miaolz123/stockdb
+- [ ] https://github.com/ksred/go-stock-notifier
+- [ ] https://github.com/buth/stocker
+- [ ] https://github.com/phonegapX/QuantBot
+- [ ] https://github.com/axiaoxin-com/x-stock
+
+二、Python
+- [ ] https://github.com/Rockyzsu/stock
+- [ ] https://github.com/Rgveda/996Quant
+- [ ] https://github.com/Rockyzsu/stock
+- [ ] https://github.com/pythonstock/stock
+- [ ] https://github.com/bbfamily/abu
+- [ ] https://github.com/wxylssy/LSSY
+- [ ] https://github.com/zengbin93/czsc
+- [ ] https://github.com/uname-yang/pysnowball
+- [ ] https://github.com/shidenggui/easytrader
+- [ ] https://github.com/zhy0313/ea-python
+- [ ] https://github.com/vnpy/vnpy
+- [ ] https://github.com/sngyai/Sequoia
+- [ ] https://github.com/vnpy/vnpy_ctastrategy
+- [ ] https://github.com/Micro-sheep/efinance
+- [ ] https://github.com/zengbin93/czsc
 
 ## 10-A股投资大师
 
