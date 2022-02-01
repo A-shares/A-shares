@@ -4,6 +4,17 @@
 
 本项目创建于2021年9月1日，最近的一次更新时间为2022年2月1日。
 
+- [01-A股资源参考]()
+- [02-A股基础知识]()
+- [03-A股行业板块]()
+- [04-A股个股研究]()
+- [05-A股选股策略]()
+- [06-A股效应理论]()
+- [07-A股基金韭菜]()
+- [08-A股交易软件]()
+- [09-A股量化交易]()
+- [10-A股投资大师]()
+
 ## 01-A股资源参考
 
 一、书籍资料
@@ -80,18 +91,22 @@
 
 - 锚定效应
 
-## 07-A股优秀股票
-
-## 08-A股基金韭菜
+## 07-A股基金韭菜
 
 - 北上资金
 - gjd
 
-## 09-A股交易软件
+## 08-A股交易软件
 
 - https://gu.qq.com
 - http://vip.stock.finance.sina.com.cn/mkt
 
-## 10-A股量化交易
+## 09-A股量化交易
 
 - https://github.com/Rockyzsu/stock
+
+## 10-A股投资大师
+
+- https://github.com/0e0w
+
+[![Stargazers over time](https://starchart.cc//a-shares/a-shares.svg)](https://starchart.cc/a-shares/a-shares)
