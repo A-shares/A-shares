@@ -2,7 +2,7 @@
 
 本人在2017年2月6日开始在A股有了第一笔交易，持仓至今，入行时间不长，累计收益为正。在股市连滚带爬数年，对股票的认识仍然不足。创建本项目希望自己一边可以做一名理智合格的持股人，一边希望自己股票的账户资产早日突破百万。以过去看现在，用现在看未来。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年9月1日，最近的一次更新时间为2022年2月4日。
+本项目创建于2021年9月1日，最近的一次更新时间为2022年2月22日。
 
 - [01-A股资源参考](https://github.com/A-shares/A-shares#01-a%E8%82%A1%E8%B5%84%E6%BA%90%E5%8F%82%E8%80%83)
 - [02-A股基础知识](https://github.com/A-shares/A-shares#02-a%E8%82%A1%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86)
@@ -10,10 +10,11 @@
 - [04-A股个股研究](https://github.com/A-shares/A-shares#04-a%E8%82%A1%E4%B8%AA%E8%82%A1%E7%A0%94%E7%A9%B6)
 - [05-A股选股策略](https://github.com/A-shares/A-shares#05-a%E8%82%A1%E9%80%89%E8%82%A1%E7%AD%96%E7%95%A5)
 - [06-A股效应理论](https://github.com/A-shares/A-shares#06-a%E8%82%A1%E6%95%88%E5%BA%94%E7%90%86%E8%AE%BA)
-- [07-A股基金韭菜](https://github.com/A-shares/A-shares#07-a%E8%82%A1%E5%9F%BA%E9%87%91%E9%9F%AD%E8%8F%9C)
-- [08-A股交易软件](https://github.com/A-shares/A-shares#08-a%E8%82%A1%E4%BA%A4%E6%98%93%E8%BD%AF%E4%BB%B6)
-- [09-A股量化交易](https://github.com/A-shares/A-shares#09-a%E8%82%A1%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93)
-- [10-A股投资大师](https://github.com/A-shares/A-shares#10-a%E8%82%A1%E6%8A%95%E8%B5%84%E5%A4%A7%E5%B8%88)
+- [07-A股利好利空](https://github.com/A-shares/A-shares#07-a%E8%82%A1%E5%88%A9%E5%A5%BD%E5%88%A9%E7%A9%BA)
+- [08-A股基金韭菜](https://github.com/A-shares/A-shares#08-a%E8%82%A1%E5%9F%BA%E9%87%91%E9%9F%AD%E8%8F%9C)
+- [09-A股交易软件](https://github.com/A-shares/A-shares#09-a%E8%82%A1%E4%BA%A4%E6%98%93%E8%BD%AF%E4%BB%B6)
+- [10-A股量化交易](https://github.com/A-shares/A-shares#10-a%E8%82%A1%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93)
+- [11-A股投资大师](https://github.com/A-shares/A-shares#11-a%E8%82%A1%E6%8A%95%E8%B5%84%E5%A4%A7%E5%B8%88)
 
 ## 01-A股资源参考
 
@@ -92,17 +93,19 @@
 
 - 锚定效应
 
-## 07-A股基金韭菜
+## 07-A股利好利空
+
+## 08-A股基金韭菜
 
 - 北上资金
 - gjd
 
-## 08-A股交易软件
+## 09-A股交易软件
 
 - https://gu.qq.com
 - http://vip.stock.finance.sina.com.cn/mkt
 
-## 09-A股量化交易
+## 10-A股量化交易
 
 一、Golang
 - [ ] https://github.com/achannarasappa/ticker
@@ -135,7 +138,7 @@
 - [ ] https://github.com/Micro-sheep/efinance
 - [ ] https://github.com/zengbin93/czsc
 
-## 10-A股投资大师
+## 11-A股投资大师
 
 - https://github.com/0e0w
 
