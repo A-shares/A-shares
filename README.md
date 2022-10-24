@@ -1,8 +1,10 @@
-# 《A-shares：中国A股》
+# 《A-shares：中国A股研究》
 
-本人在2017年2月6日开始在A股有了第一笔交易，持仓至今，入行时间不长，累计收益为正。在股市连滚带爬数年，对股票的认识仍然不足。创建本项目希望自己一边可以做一名理智合格的持股人，一边希望自己股票的账户资产早日突破百万。以过去看现在，用现在看未来。作者：[0e0w](https://github.com/0e0w)
+![A-shares](https://socialify.git.ci/A-shares/A-shares/image?description=1&font=Inter&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
 
-本项目创建于2021年9月1日，最近的一次更新时间为2022年5月29日。
+本人在2017年2月6日开始在A股有了第一笔交易，持仓至今。入行时间不长，累计收益为负。在股市连滚带爬数年，对股票的认识仍然不足。创建本项目希望自己一边可以做一名理智合格的持股人，一边希望自己股票的账户资产早日突破百万。以过去看现在，用现在看未来。作者：[0e0w](https://github.com/0e0w)
+
+本项目创建于2021年9月1日，最近的一次更新时间为2022年10月24日。
 
 - [01-A股参考资源](https://github.com/A-shares/A-shares#01-a%E8%82%A1%E5%8F%82%E8%80%83%E8%B5%84%E6%BA%90)
 - [02-A股基础知识](https://github.com/A-shares/A-shares#02-a%E8%82%A1%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86)
@@ -123,6 +125,7 @@
 - [ ] https://github.com/phonegapX/QuantBot
 - [ ] https://github.com/axiaoxin-com/x-stock
 - [ ] https://github.com/xxjwxc/shares
+- [ ] https://github.com/axiaoxin-com/investool
 
 二、Python
 - [ ] https://github.com/Rockyzsu/stock
