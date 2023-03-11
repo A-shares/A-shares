@@ -4,7 +4,7 @@
 
 本人在2017年2月6日开始在A股有了第一笔交易，持仓至今。入行时间不长，累计收益为正。在股市连滚带爬数年，对A股的认识仍然不足。自古言会买的是徒弟，会卖的是师傅，会空仓的是祖师爷。感受过下周新高年底破百的冲动，也感受过被梦想窒息的退市唏嘘。创建本项目希望自己可以做一名理智合格的持股人，也希望自己股票的账户资产早日突破百万。以过去看现在，用现在看未来。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年9月1日，最近的一次更新时间为2023年3月6日。
+本项目创建于2021年9月1日，最近的一次更新时间为2023年3月11日。
 
 - [01-A股参考资源](https://github.com/A-shares/A-shares#01-a%E8%82%A1%E5%8F%82%E8%80%83%E8%B5%84%E6%BA%90)
 - [02-A股基础知识](https://github.com/A-shares/A-shares#02-a%E8%82%A1%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86)
@@ -36,6 +36,7 @@
 - [ ] https://github.com/1zilc/fishing-funds
 - [ ] https://github.com/benitoro/stockholm
 - [ ] https://github.com/hugo2046/Quantitative-analysis
+- [ ] https://github.com/waditu/czsc
 
 ## 02-A股基础知识
 
